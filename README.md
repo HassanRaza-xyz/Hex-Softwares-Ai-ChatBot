@@ -2,7 +2,7 @@
 
 A modern, full-stack AI chatbot built with the MERN stack (MongoDB, Express, React, Node.js) and powered by **Google Gemini API**.
 
-## ✨ Features
+##  Features
 
 - **Dark glassmorphism UI** with animated background orbs
 - **Real-time AI responses** with shimmer loading effects
